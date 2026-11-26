@@ -7,7 +7,7 @@
 
 ## Disclaimer
 
-The projects in this repository were undertaken in response to prompts from a training program. They were all executed by me for educational purposes and are shared here for exhibition purposes only. All tools and accounts implemented in their execution were temporarily provisioned by the provider (LearnCyber). All security and networking creations, deployments and configurations were undertaken inside temporarily provisioned virtual sand-boxed environments. No real security events, identities, production environments or attack victims were engaged while carrying out the projects. All contained screenshots are real evidence of work done, therefore they are original works which, along with all project documentation, constitute my intellectual property.
+The projects in this repository were undertaken in response to prompts from a training program. They were all executed by me for educational purposes and are shared here for exhibition purposes only. All tools and accounts implemented in their execution were temporarily provisioned by the provider [(LearnCyber)](https://lcacademy.uk/). All security and networking creations, deployments and configurations were undertaken inside temporarily provisioned virtual sand-boxed environments. No real security events, identities, production environments or attack victims were engaged while carrying out the projects. All contained screenshots are real evidence of work done, therefore they are original works which, along with all project documentation, constitute my intellectual property.
 
 ## Introduction
 
