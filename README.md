@@ -1,6 +1,6 @@
 <div align="center">
   <p><img src="./images/lc-logo-wordmark.png" alt="techbiz academy logo" style="display: block; margin: 0 auto;"></p>
-  <h1>LearnCyber Cloud Security Pilot</h1>
+  <h1>LearnCyber Academy · Cloud Security Pilot</h1>
   <p>Executed by</p>
   <h3><img width="15" height="15" alt="shield(2)" src="https://github.com/user-attachments/assets/de672627-9503-420d-9e2c-8ebf0353afa8" /> Jeffrey Obi</h3>
 </div>
@@ -15,8 +15,8 @@ The **LearnCyber Cloud Security Pilot** training programme is a paced 4-week tra
 
 ## Projects
 
-This section contains the completed Cloud Security projects.
+This section contains Cloud Security projects I completed.
 
 | Week & Task | Issue Date | Project Title |
 | :---: | :---: | :---: |
-| **Week 1<br>Task 1** | November 22nd | [**Launch & Secure a Web Server**](<./docs/Cloud Security Pilot Week 1, Task 1 — Launch & Secure a Web Server.pdf>)
+| **Week 1 · Task 1** | November 22nd | [**Launch & Secure a Web Server**](<./docs/Cloud Security Pilot Week 1, Task 1 — Launch & Secure a Web Server.pdf>)
