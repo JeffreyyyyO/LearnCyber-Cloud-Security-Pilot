@@ -11,7 +11,7 @@ The projects in this repository were undertaken in response to prompts from a tr
 
 ## Introduction
 
-The **LearnCyber Cloud Security Pilot** training programme is a paced 4-week training program focused on providing security inside the AWS environment. In November 2026, I enrolled to advance my Cloud Security skills towards professional readiness.
+The [**LearnCyber**](https://lcacademy.uk/) **Cloud Security Pilot** training programme is a paced 4-week training program focused on providing security inside the AWS environment. In November 2026, I enrolled to advance my Cloud Security skills towards professional readiness.
 
 ## Projects
 
